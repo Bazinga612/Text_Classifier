@@ -1,4 +1,4 @@
-##This is a text classifier for classifying 8 of the cases :business competition,competitive response,industry analysis,market sizing,new business,organizational behavior,increase sales,mergers & acquisitions.
+This is a text classifier for classifying 8 of the cases :business competition,competitive response,industry analysis,market sizing,new business,organizational behavior,increase sales,mergers & acquisitions.
 
 
 1.To run, simply type 
